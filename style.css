@@ -1,6 +1,7 @@
-/* * {
+* {
   background-color: wheat;
-} */
+  outline: 2px solid;
+}
 
 #red {
   color: red;
